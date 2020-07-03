@@ -1,3 +1,6 @@
+.ttr_menushape1 {
+  border:none !important;
+}
 .snip1295 {
   position: relative;
   overflow: hidden;
@@ -2514,7 +2517,6 @@ transform:rotate(0deg);
 -moz-transform:rotate(0deg);
 -webkit-transform:rotate(0deg);
 -o-transform:rotate(0deg);
-box-sizing:border-box;
 word-wrap:break-word;
 text-align:left;
 display:block;
@@ -2700,7 +2702,6 @@ transform:rotate(0deg);
 -moz-transform:rotate(0deg);
 -webkit-transform:rotate(0deg);
 -o-transform:rotate(0deg);
-box-sizing:border-box;
 word-wrap:break-word;
 text-align:left;
 display:block;
